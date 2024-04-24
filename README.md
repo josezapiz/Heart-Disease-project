@@ -13,13 +13,13 @@ Steps
 
 1.  **Exploratory data analysis**
 
-2.  **Model training**: 
+2.  **Model training**
 
-3.  **Model Evaluation**: 
+3.  **Model Evaluation**
 
-4.  **Model Comparison**: 
+4.  **Model Comparison**
 
-5.  **Model fine-tuning**: 
+5.  **Model fine-tuning**
 
 
 Tools Used
